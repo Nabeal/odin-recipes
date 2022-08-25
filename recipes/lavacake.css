@@ -1,0 +1,40 @@
+body{
+    background-color: #3B4014;
+    color: blanchedalmond;
+}
+h1{
+    color: #0D0000;
+    background-color: rgb(241, 212, 173);
+    text-align: center;
+    font-weight: bold;
+}
+.Middle{
+    background-color: rgb(241, 212, 173);
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 25px;
+    background-color: #26130D;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+#instruction{
+    text-align: left;
+}
+
+#image{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    font-style: italic;
+}
+
+ul,ol,li{
+    
+    background-color:#26130D;
+    color: white;
+}

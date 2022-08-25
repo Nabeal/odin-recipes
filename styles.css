@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+}
+
+.heading{
+    color: white;
+    
+}
+
+ul{
+    color: green;
+    font-size: 25px;
+}
+
+.chef{
+    width: 5px;
+    height: auto;
+}
+.list1{
+    color: orangered;
+}
